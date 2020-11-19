@@ -3,6 +3,7 @@
     font-size:16px;
 }
 
+
 body{
     background-color: rgb(204,157,248);
 }
@@ -11,6 +12,7 @@ main{
     width:560px;
     margin:auto;
     padding:10px;
+<<<<<<< Updated upstream
     box-shadow: 3px 3px 5px rgb(0, 0, 0,0.473);
 }
 h1{
@@ -24,14 +26,32 @@ h2{
 img.lado{
     float:right;
     
+=======
+    box-shadow: 3px 3px 5px rgba(0, 0, 0,0.473);
+}
+h1{
+
+    font-size:2em;
+    color:rgb(58,0,122);
+}
+
+img.lado{
+    float: right;
+>>>>>>> Stashed changes
 }
 a{
     text-decoration:none;
     font-weight:bold;
+<<<<<<< Updated upstream
     color:rgb(58,0,112);
 
 }
 a:hover{
+=======
+    color:rgb(58, 0,122);
+}
+a:hover {
+>>>>>>> Stashed changes
     text-decoration:underline;
     color:rgb(26,26,255);
 }
